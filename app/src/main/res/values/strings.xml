@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Online Calculator</string>
+    <string name="calculator">Simple Arithmetic Calculator</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+    <string name="count">Calculate !</string>
+    <string name="equal">=</string>
+    <string name="empty_0">0</string>
+    <string name="delete_history">Delete All History</string>
+    <string name="copyright">© 2019 Deviko Kelvin | All rights reserved \nBuild 0.2.0_121019-2010</string>
+    <string name="clear">Clear</string>
+    <string name="calculation_history">Calculation History</string>
+    <string name="result">Result</string>
+</resources>
